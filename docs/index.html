@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Automated Construction Progress Monitoring</title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+	<link rel="stylesheet" type="text/css" href="./base.css">
+
+</head>
+<body>
+
+	<div class="container container-fluid">
+		<div class="row">
+			<div class="jumbotron justify-content-center">
+				<h1>Development of Framework for Automated Progress Monitoring of Construction Projects</h1>
+			</div>
+		</div>
+		<hr>
+
+		<div class="row justify-content-center">
+			<div class="m-3">
+				<img src="https://picsum.photos/100" alt="Akash Pushkar" class="author">
+				<p><a href="https://akashpushkar.github.io/">Akash Pushkar <sup>1</sup></a></p>
+			</div>
+			<div class="m-3">
+				<img src="https://picsum.photos/100" alt="Koshy Varghese" class="author">
+				<p><a href="http://www.civil.iitm.ac.in/people/faculty/koshy/">Koshy Varghese<sup>1</sup></a></p>
+			</div>
+		</div>
+		<div class="row justify-content-center">
+			<p><sup>1</sup>Indian Institute of Technology, Madras</p>
+		</div>
+
+
+
+		<hr>
+
+		<div class="row justify-content-center">
+			<div class="col-sm-12">
+				<h3>Abstract</h3>
+				<p>
+					Automated progress monitoring of on-going construction projects have been an area of interest for researchers in the field of civil engineering. It is done using 3D point cloud asbuilt and as-planned model. Advancements in the field of photogrammetry and computer	vision have made 3D reconstruction of buildings easy and affordable. But the high variability of construction sites, in terms of lighting conditions, material appearance, etc. and error-prone data collection techniques tend to make the reconstructed 3D model erroneous and incorrect representation of the actual site. This eventually affecting the result of progress	estimation step. To overcome these limitations, this study presents a novel approach for improving the results of 3D reconstruction of a construction site by employing two-step process for the reconstruction as compared to the traditional approach. In the proposed method, the first step is to obtain an as-built 3D model of the construction site using 3D
+					scanning techniques or photogrammetry in the form of point cloud data. In the second step, the model is passed through pre-trained machine learning binary classification model for	identifying and removing erroneous data points in the captured point cloud. Erroneous points are removed by identifying the correct building points. This processed as-built model is
+					compared with an as-planned model for progress estimation. Based on this, experiments are carried out using commercially available stereo vision camera for 3D reconstruction. Moreover this study, standardizing the methodogy of data collection at a construction site using a testbed laboratory setup. It is used to generate data for benchmarking.
+				</p>
+			</div>
+		</div>
+		<hr>
+
+
+		<!-- Video -->
+		<div class="row justify-content-center">
+			<div class="col-sm-12">
+				
+			</div>
+		</div>
+
+		<div class="row">
+			<model-viewer src="./data/mesh.gltf" 
+							auto-rotate camera-controls
+							alt="A 3D model of an astronaut"></model-viewer>
+
+		</div>
+		<hr>
+
+
+		<div class="row">
+			<h3>Results</h3>
+
+		</div>
+		<hr>
+
+		<!-- Footer -->
+		<div class="row justify-content-center">
+			<footer>
+				<p>&copy copyright Akash Pushkar</p>
+			</footer>
+			
+		</div>
+
+	</div>
+
+
+	
+	<!-- Bootstrap -->
+	<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+	<!-- 3D model js -->
+	<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.js"></script>
+
+</body>
+</html>
