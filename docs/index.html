@@ -14,32 +14,40 @@
 
 	<div class="container container-fluid">
 		<div class="row">
-			<div class="jumbotron justify-content-center">
-				<h1>Development of Framework for Automated Progress Monitoring of Construction Projects</h1>
+			<div class="col-md-12">
+				<div class="jumbotron jumbotron-fluid">
+					<h1 class="project-title">Development of Framework for Automated Progress Monitoring of Construction Projects</h1>
+				</div>
 			</div>
 		</div>
-		<hr>
+		
 
+
+		<!-- Team -->
+		<div class="row">
+			<div class="col-md-12">
+				<h3>Team</h3>
+			</div>
+		</div>
 		<div class="row justify-content-center">
-			<div class="m-3">
-				<img src="https://picsum.photos/100" alt="Akash Pushkar" class="author">
-				<p><a href="https://akashpushkar.github.io/">Akash Pushkar <sup>1</sup></a></p>
-			</div>
-			<div class="m-3">
-				<img src="https://picsum.photos/100" alt="Koshy Varghese" class="author">
-				<p><a href="http://www.civil.iitm.ac.in/people/faculty/koshy/">Koshy Varghese<sup>1</sup></a></p>
-			</div>
+			<figure class="m-3">
+				<img src="./images/akashPushkar.jpeg" alt="Akash Pushkar" class="author">
+				<figcaption><a href="https://akashpushkar.github.io/">Akash Pushkar <sup>1</sup></a></figcaption>
+			</figure>
+			<figure class="m-3">
+				<img src="http://www.civil.iitm.ac.in/images/koshy-pp.jpg" alt="Koshy Varghese" class="author">
+				<figcaption><a href="http://www.civil.iitm.ac.in/people/faculty/koshy/">Koshy Varghese<sup>1</sup></a></figcaption>
+			</figure>
 		</div>
 		<div class="row justify-content-center">
 			<p><sup>1</sup>Indian Institute of Technology, Madras</p>
 		</div>
-
-
-
 		<hr>
 
+
+		<!-- Abstract -->
 		<div class="row justify-content-center">
-			<div class="col-sm-12">
+			<div class="col-md-12">
 				<h3>Abstract</h3>
 				<p>
 					Automated progress monitoring of on-going construction projects have been an area of interest for researchers in the field of civil engineering. It is done using 3D point cloud asbuilt and as-planned model. Advancements in the field of photogrammetry and computer	vision have made 3D reconstruction of buildings easy and affordable. But the high variability of construction sites, in terms of lighting conditions, material appearance, etc. and error-prone data collection techniques tend to make the reconstructed 3D model erroneous and incorrect representation of the actual site. This eventually affecting the result of progress	estimation step. To overcome these limitations, this study presents a novel approach for improving the results of 3D reconstruction of a construction site by employing two-step process for the reconstruction as compared to the traditional approach. In the proposed method, the first step is to obtain an as-built 3D model of the construction site using 3D
@@ -51,30 +59,157 @@
 		<hr>
 
 
+		<!-- Important Links -->
+		<div class="row">
+			<div class="col-md-12">
+				<h3>Important links</h3>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-12 d-flex justify-content-center">
+				<a href="https://drive.google.com/file/d/1v_dj5XvgEwTIHC78neZBmISvrtf55NxB/view?usp=sharing" role="button" class="btn btn-outline-info btn-lg m-3" target="_blank">Thesis (PDF)</a>
+				<a href="https://drive.google.com/file/d/1aO6F6aLFOjH_8XuWcq5s78xrkrhBvU3f/view?usp=sharing" role="button" class="btn btn-outline-info btn-lg m-3" target="_blank">Presentation</a>
+			</div>
+		</div>
+		<hr>
+
+
+
 		<!-- Video -->
-		<div class="row justify-content-center">
-			<div class="col-sm-12">
+		<div class="row">
+			<div class="col-md-12">
+				<h3>Dataset collection using laboratory setup</h3>
+			</div>
+		</div>
+		<div class="row mt-3">
+			<div class="col-md-6 d-flex justify-content-center">
+				<figure class="embed-responsive embed-responsive-16by9">
+					<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/u3gh6fI8bqo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					<figcaption><i class="d-flex justify-content-center">3D reconstruction</i></figcaption>
+				</figure>
+			</div>
+			<div class="col-md-6 d-flex justify-content-center">
+				<figure class="embed-responsive embed-responsive-16by9">
+					<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/A1nmJRBZBG8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					<figcaption><i class="d-flex justify-content-center">Data collection under constraint condition</i></figcaption>
+				</figure>
 				
+			</div>
+		</div>
+		<hr>
+
+
+
+		<!-- Dataset -->
+		<div class="row">
+			<div class="col-md-12">
+				<h3>3D models</h3>
+			</div>
+		</div>
+		<div class="row">
+			<p>Below is the examples of the as-built and as-planned 3D models collected and analysed in the study</p>
+		</div>
+
+		<div class="row">
+			<div class="col-md-4">
+				<model-viewer src="./data/as-built.gltf" 
+							auto-rotate camera-controls
+							stage-light-intensity="3" 
+							environment-intensity="1"
+							alt="As-built model">
+				</model-viewer>
+				<p class="d-flex justify-content-center"><i>As-built model</i></p>
+			</div>
+			<div class="col-md-4 justify-content-center">
+				<model-viewer src="./data/mesh_stage4.gltf" 
+							auto-rotate camera-controls
+							stage-light-intensity="3" 
+							environment-intensity="1"
+							alt="As-built model">
+				</model-viewer>
+				<p class="d-flex justify-content-center"><i>As-built model</i> </p>
+			</div>
+			<div class="col-md-4">
+				<model-viewer src="./data/as-planned.gltf" 
+							auto-rotate camera-controls
+							stage-light-intensity="3" 
+							environment-intensity="1"
+							alt="As-planned model">
+				</model-viewer>
+				<p class="d-flex justify-content-center"><i>As-planned model</i></p>
+			</div>
+
+		</div>
+		<hr>
+
+
+
+		<!-- Implementation -->
+		<div class="row">
+			<div class="col-md-12">
+				<h3>Implementation</h3>
+			</div>
+		</div>
+
+		<div class="row mt-3">
+			<div class="col-md-6">
+				<figure>
+					<img src="./images/methodology.JPG" class="img-fluid">
+					<figcaption><i class="d-flex justify-content-center">Methodology</i></figcaption>
+				</figure>
+			</div>
+
+			<div class="col-md-3">
+				<figure>
+					<img src="./images/laboratorySetup.jpg" class="img-fluid">
+					<figcaption><i class="d-flex justify-content-center">As-built laboratory setup</i></figcaption>
+				</figure>
+			</div>
+
+			<div class="col-md-3">
+				<figure>
+					<img src="./images/As-plannedLightingProfile.JPG" class="img-fluid">
+					<figcaption><i class="d-flex justify-content-center">As-planned model(w/ lighting profile)</i></figcaption>
+				</figure>
+			</div>
+
+		</div>
+		<hr>
+
+
+
+		<!-- Results -->
+		<div class="row">
+			<div class="col-md-12">
+				<h3>Results</h3>
 			</div>
 		</div>
 
 		<div class="row">
-			<model-viewer src="./data/mesh.gltf" 
-							auto-rotate camera-controls
-							alt="A 3D model of an astronaut"></model-viewer>
-
+			<div class="col-md-3 p-0">
+				<img src="./images/r1.png" class="img-fluid">
+			</div>
+			<div class="col-md-3 p-0">
+				<img src="./images/r2.png" class="img-fluid">
+			</div>
+			<div class="col-md-3 p-0">
+				<img src="./images/r3.png" class="img-fluid">
+			</div>
+			<div class="col-md-3 p-0">
+				<img src="./images/r4.png" class="img-fluid">
+			</div>
 		</div>
 		<hr>
 
-
+		<!-- Note -->
 		<div class="row">
-			<h3>Results</h3>
-
+			<div class="col-md-12">
+				<i>Have comments or questions about the project? Please let us know <a href="mailto:akashpushkar02@gmail.com?subject='Automated Construction Progress Monitoring'">here</a></i>
+			</div>
 		</div>
-		<hr>
 
 		<!-- Footer -->
-		<div class="row justify-content-center">
+		<div class="row justify-content-center mt-3">
 			<footer>
 				<p>&copy copyright Akash Pushkar</p>
 			</footer>

@@ -1,5 +1,5 @@
 # Automated Construction Progress Monitoring
-
+This is project page for Automated Construction Progress Monitoring project. Visit the website [here](https://akashpushkar.github.io/construction-progress-monitoring/)
 
 # Acknowledgements
 

@@ -1,0 +1,941 @@
+{
+  "accessors": [
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___247658__1_0_positions",
+      "componentType": 5126,
+      "count": 36,
+      "min": [
+        -1.350781798362732,
+        0,
+        -3.4329030513763428
+      ],
+      "max": [
+        0.9792183041572571,
+        1.9900000095367432,
+        -3.3329029083251953
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 0
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___247658__1_0_normals",
+      "componentType": 5126,
+      "count": 36,
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 0
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___247658__1_0_texcoords",
+      "componentType": 5126,
+      "count": 36,
+      "min": [
+        -7.808398723602295,
+        -5.528871536254883
+      ],
+      "max": [
+        7.808398723602295,
+        1.1640419960021973
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 0
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___247658__1_0_indices",
+      "componentType": 5123,
+      "count": 72,
+      "min": [
+        0
+      ],
+      "max": [
+        35
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 0
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___247755__1_0_positions",
+      "componentType": 5126,
+      "count": 32,
+      "min": [
+        2.04921817779541,
+        0,
+        -3.3329029083251953
+      ],
+      "max": [
+        2.1492183208465576,
+        1.9900000095367432,
+        -1.9329031705856323
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 432
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___247755__1_0_normals",
+      "componentType": 5126,
+      "count": 32,
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 432
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___247755__1_0_texcoords",
+      "componentType": 5126,
+      "count": 32,
+      "min": [
+        -4.757217884063721,
+        -5.528871536254883
+      ],
+      "max": [
+        4.757217884063721,
+        1.1640419960021973
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 288
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___247755__1_0_indices",
+      "componentType": 5123,
+      "count": 60,
+      "min": [
+        0
+      ],
+      "max": [
+        31
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 144
+    },
+    {
+      "name": "Rectangular_Column_Test_bed_column__248063__1_0_positions",
+      "componentType": 5126,
+      "count": 24,
+      "min": [
+        -1.350781798362732,
+        0,
+        -3.3329029083251953
+      ],
+      "max": [
+        -1.1078191995620728,
+        1.9900000095367432,
+        -3.092440605163574
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 816
+    },
+    {
+      "name": "Rectangular_Column_Test_bed_column__248063__1_0_normals",
+      "componentType": 5126,
+      "count": 24,
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 816
+    },
+    {
+      "name": "Rectangular_Column_Test_bed_column__248063__1_0_texcoords",
+      "componentType": 5126,
+      "count": 24,
+      "min": [
+        -2.2393782138824463,
+        -5.528871536254883
+      ],
+      "max": [
+        1.788057565689087,
+        1.5577428340911865
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 544
+    },
+    {
+      "name": "Rectangular_Column_Test_bed_column__248063__1_0_indices",
+      "componentType": 5123,
+      "count": 36,
+      "min": [
+        0
+      ],
+      "max": [
+        23
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 264
+    },
+    {
+      "name": "Rectangular_Column_Test_bed_column__248351__1_0_positions",
+      "componentType": 5126,
+      "count": 24,
+      "min": [
+        0.14921826124191284,
+        0,
+        -3.3329029083251953
+      ],
+      "max": [
+        0.48921826481819153,
+        1.9900000095367432,
+        -3.092440605163574
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 1104
+    },
+    {
+      "name": "Rectangular_Column_Test_bed_column__248351__1_0_normals",
+      "componentType": 5126,
+      "count": 24,
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 1104
+    },
+    {
+      "name": "Rectangular_Column_Test_bed_column__248351__1_0_texcoords",
+      "componentType": 5126,
+      "count": 24,
+      "min": [
+        -2.5577428340911865,
+        -5.528871536254883
+      ],
+      "max": [
+        6.200787544250488,
+        1.5577428340911865
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 736
+    },
+    {
+      "name": "Rectangular_Column_Test_bed_column__248351__1_0_indices",
+      "componentType": 5123,
+      "count": 36,
+      "min": [
+        0
+      ],
+      "max": [
+        23
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 336
+    },
+    {
+      "name": "Rectangular_Column_Test_bed_column__255862__1_0_positions",
+      "componentType": 5126,
+      "count": 48,
+      "min": [
+        1.8098788261413574,
+        0,
+        -2.271653175354004
+      ],
+      "max": [
+        2.149878740310669,
+        1.9900000095367432,
+        -1.9316530227661133
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 1392
+    },
+    {
+      "name": "Rectangular_Column_Test_bed_column__255862__1_0_normals",
+      "componentType": 5126,
+      "count": 48,
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 1392
+    },
+    {
+      "name": "Rectangular_Column_Test_bed_column__255862__1_0_texcoords",
+      "componentType": 5126,
+      "count": 48,
+      "min": [
+        -4.757217884063721,
+        -5.528871536254883
+      ],
+      "max": [
+        4.757217884063721,
+        1.5577428340911865
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 928
+    },
+    {
+      "name": "Rectangular_Column_Test_bed_column__255862__1_0_indices",
+      "componentType": 5123,
+      "count": 84,
+      "min": [
+        0
+      ],
+      "max": [
+        47
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 408
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___260147__1_0_positions",
+      "componentType": 5126,
+      "count": 28,
+      "min": [
+        -1.4507818222045898,
+        0,
+        -2.2779030799865723
+      ],
+      "max": [
+        -1.350781798362732,
+        1.9900000095367432,
+        -1.9329031705856323
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 1968
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___260147__1_0_normals",
+      "componentType": 5126,
+      "count": 28,
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 1968
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___260147__1_0_texcoords",
+      "componentType": 5126,
+      "count": 28,
+      "min": [
+        -1.131889820098877,
+        -5.528871536254883
+      ],
+      "max": [
+        1.131889820098877,
+        1.1640419960021973
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 1312
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___260147__1_0_indices",
+      "componentType": 5123,
+      "count": 48,
+      "min": [
+        0
+      ],
+      "max": [
+        27
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 576
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___260486__1_0_positions",
+      "componentType": 5126,
+      "count": 24,
+      "min": [
+        -1.4507818222045898,
+        0,
+        -2.787903070449829
+      ],
+      "max": [
+        -1.350781798362732,
+        1.6699999570846558,
+        -2.2779030799865723
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 2304
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___260486__1_0_normals",
+      "componentType": 5126,
+      "count": 24,
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 2304
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___260486__1_0_texcoords",
+      "componentType": 5126,
+      "count": 24,
+      "min": [
+        -1.6732286214828491,
+        -4.479002475738525
+      ],
+      "max": [
+        1.6732286214828491,
+        1.1640419960021973
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 1536
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___260486__1_0_indices",
+      "componentType": 5123,
+      "count": 36,
+      "min": [
+        0
+      ],
+      "max": [
+        23
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 672
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___260943__1_0_positions",
+      "componentType": 5126,
+      "count": 36,
+      "min": [
+        -1.4507818222045898,
+        0,
+        -3.4329030513763428
+      ],
+      "max": [
+        -1.350781798362732,
+        1.9900000095367432,
+        -2.787903070449829
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 2592
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___260943__1_0_normals",
+      "componentType": 5126,
+      "count": 36,
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 2592
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___260943__1_0_texcoords",
+      "componentType": 5126,
+      "count": 36,
+      "min": [
+        -2.1161415576934814,
+        -5.528871536254883
+      ],
+      "max": [
+        2.1161417961120605,
+        1.1640419960021973
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 1728
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___260943__1_0_indices",
+      "componentType": 5123,
+      "count": 72,
+      "min": [
+        0
+      ],
+      "max": [
+        35
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 744
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___261943__1_0_positions",
+      "componentType": 5126,
+      "count": 32,
+      "min": [
+        1.5792182683944702,
+        0,
+        -3.4329030513763428
+      ],
+      "max": [
+        2.1492183208465576,
+        1.9900000095367432,
+        -3.3329029083251953
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 3024
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___261943__1_0_normals",
+      "componentType": 5126,
+      "count": 32,
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 3024
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___261943__1_0_texcoords",
+      "componentType": 5126,
+      "count": 32,
+      "min": [
+        -1.870078682899475,
+        -5.528871536254883
+      ],
+      "max": [
+        1.870078682899475,
+        1.1640419960021973
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 2016
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___261943__1_0_indices",
+      "componentType": 5123,
+      "count": 60,
+      "min": [
+        0
+      ],
+      "max": [
+        31
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 888
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___262286__1_0_positions",
+      "componentType": 5126,
+      "count": 24,
+      "min": [
+        0.9792183041572571,
+        0,
+        -3.4329030513763428
+      ],
+      "max": [
+        1.5792182683944702,
+        1.5500000715255737,
+        -3.3329029083251953
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 3408
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___262286__1_0_normals",
+      "componentType": 5126,
+      "count": 24,
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 3408
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___262286__1_0_texcoords",
+      "componentType": 5126,
+      "count": 24,
+      "min": [
+        -1.9685038328170776,
+        -4.085301876068115
+      ],
+      "max": [
+        1.9685039520263672,
+        1.1640419960021973
+      ],
+      "type": "VEC2",
+      "bufferView": 2,
+      "byteOffset": 2272
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___262286__1_0_indices",
+      "componentType": 5123,
+      "count": 36,
+      "min": [
+        0
+      ],
+      "max": [
+        23
+      ],
+      "type": "SCALAR",
+      "bufferView": 3,
+      "byteOffset": 1008
+    }
+  ],
+  "asset": {
+    "generator": "obj2gltf",
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "name": "TestBedAs-plannedModel(Recovery)-3DView-{3D}",
+      "byteLength": 10936,
+      "uri": "data:application/octet-stream;base64,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0yPKP2dmxj9ITlXA0yPKP2dmxj+vtFvADa56P2dmxj+vtFvADa56P2dmxj9ITlXADa56P2dmxj9ITlXADa56P2dmxj+vtFvADa56PwAAAACvtFvADa56PwAAAABITlXAAAAAgAAAAAAAAIA/AAAAgAAAAAAAAIA/AAAAgAAAAAAAAIA/AAAAgAAAAAAAAIA/AAAAgAAAAAAAAIA/AAAAgAAAAAAAAIA/AAAAgAAAAAAAAIA/AAAAgAAAAAAAAIA/AAAAgAAAAAAAAIA/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAACAvwAAAAAAAACAAACAvwAAAAAAAACAAACAvwAAAAAAAACAAACAvwAAAAAAAACAAACAvwAAAAAAAACAAACAvwAAAAAAAACAAACAvwAAAAAAAACAAACAvwAAAAAAAACAAACAvwAAAAAAAACAAACAvwAAAAAAAACAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAACAPwAAAAAAAACAAACAPwAAAAAAAACAAACAPwAAAAAAAACAAACAPwAAAAAAAACAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AACAvwAAAAAAAACAAACAvwAAAAAAAACAAACAvwAAAAAAAACAAACAvwAAAAAAAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAACAPwAAAAAAAACAAACAPwAAAAAAAACAAACAPwAAAAAAAACAAACAPwAAAAAAAACAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AACAvwAAAAAAAACAAACAvwAAAAAAAACAAACAvwAAAAAAAACAAACAvwAAAAAAAACAAAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAACAPwAAAAAAAACAAACAPwAAAAAAAACAAACAPwAAAAAAAACAAACAPwAAAAAAAACAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AACAvwAAAAAAAACAAACAvwAAAAAAAACAAACAvwAAAAAAAACAAACAvwAAAAAAAACAAAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAACAPwAAAAAAAACAAACAPwAAAAAAAACAAACAPwAAAAAAAACAAACAPwAAAAAAAACAAAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AACAvwAAAAAAAACAAACAvwAAAAAAAACAAACAvwAAAAAAAACAAACAvwAAAAAAAACAAAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAvwAAAAAAAACAAACAvwAAAAAAAACAAACAvwAAAAAAAACAAACAvwAAAAAAAACAAACAvwAAAAAAAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAgAAAAAAAAIA/AAAAgAAAAAAAAIA/AAAAgAAAAAAAAIA/AAAAgAAAAAAAAIA/AACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAvwAAAAAAAACAAACAvwAAAAAAAACAAACAvwAAAAAAAACAAACAvwAAAAAAAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAvwAAAAAAAACAAACAvwAAAAAAAACAAACAvwAAAAAAAACAAACAvwAAAAAAAACAAACAvwAAAAAAAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAgAAAAAAAAIA/AAAAgAAAAAAAAIA/AAAAgAAAAAAAAIA/AAAAgAAAAAAAAIA/AAAAgAAAAAAAAIA/AAAAgAAAAAAAAIA/AAAAgAAAAAAAAIA/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAgL8AAACAAAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAAAAAAAAgD8AAACAAACAvwAAAAAAAACAAACAvwAAAAAAAACAAACAvwAAAAAAAACAAACAvwAAAAAAAACAAACAvwAAAAAAAACAAACAvwAAAAAAAACAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAAAAgAAAAAAAAIA/AAAAgAAAAAAAAIA/AAAAgAAAAAAAAIA/AAAAgAAAAAAAAIA/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/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DAAJAAwACgALAAkADAANAA4ADwAQABEAEgAQABAADwARABIAEQATABYAFwAUABQAFQAWABcAGQAYABgAFAAXABsAHQAaAB0AGwAcAB4AHwAcAB0AHAAfACEAIwAgACMAIQAiAAEAAwAAAAMAAQACAAQAAwACAAMABAAFAAgACQAGAAYABwAIAAsABgAJAAkACgALAA4ADwAMAAwADQAOAA8AEQAQABAADAAPABQAFQASABIAEwAUABcAGQAWABkAFwAYABYAGwAaABsAFgAZAB0AHwAcAB8AHQAeAAIAAwAAAAAAAQACAAYABwAEAAQABQAGAAoACwAIAAgACQAKAA0ADwAMAA8ADQAOABEAEwAQABMAEQASABUAFwAUABcAFQAWAAIAAwAAAAAAAQACAAYABwAEAAQABQAGAAoACwAIAAgACQAKAA0ADwAMAA8ADQAOABEAEwAQABMAEQASABUAFwAUABcAFQAWAAIAAwAAAAAAAQACAAQABQADAAMAAgAEAAUABAAGAAYABwAFAAoACwAIAAgACQAKAA4ADwAMAAwADQAOABEAEwAQABMAEQASABUAFwAUABcAFQAWABkAGwAYABsAGQAaABoAHQAbAB0AGgAcAB8AHAAeABwAHwAdACIAIwAgACAAIQAiACUAJwAkACcAJQAmACkAKwAoACsAKQAqAC0ALwAsAC8ALQAuAAIAAwAAAAAAAQACAAMABAAAAAYACAAFAAgABgAHAAUACAAJAAwADQAKAAoACwAMAA8AEQAOABEADwAQAA4AEwASABMADgARABUAFwAUABcAFQAWABoAGwAYABgAGQAaAAIAAwAAAAAAAQACAAUABwAEAAcABQAGAAoACwAIAAgACQAKAA0ADwAMAA8ADQAOABEAEwAQABMAEQASABYAFwAUABQAFQAWAAIAAwAAAAAAAQACAAUABgACAAIABAAFAAMAAgAHAAcACAADAAYABwACAAoADAAJAAwACgALAAwADQAJABEADgAPAA8AEAARABMAEQAQABAAEgATABQAFgAXABYAFAAVABYAGQAXABkAFgAYABwAHQAaABoAGwAcAB0AHwAeAB4AGgAdACEAIwAgACMAIQAiAAIAAwAAAAAAAQACAAYABAAAAAAABQAGAAMABQAAAAgACgAHAAoACAAJAAoACwAHAA4ADwAMAAwADQAOAAwADwAQABIAFAARABQAEgATABEAFAAVABcAGQAWABkAFwAYABYAGwAaABsAFgAZAB4AHwAcABwAHQAeAAIAAwAAAAAAAQACAAUABwAEAAcABQAGAAoACwAIAAgACQAKAA4ADwAMAAwADQAOABEAEwAQABMAEQASABUAFwAUABcAFQAWAA=="
+    }
+  ],
+  "bufferViews": [
+    {
+      "name": "bufferView_0",
+      "buffer": 0,
+      "byteLength": 3696,
+      "byteOffset": 0,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_1",
+      "buffer": 0,
+      "byteLength": 3696,
+      "byteOffset": 3696,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_2",
+      "buffer": 0,
+      "byteLength": 2464,
+      "byteOffset": 7392,
+      "byteStride": 8,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_3",
+      "buffer": 0,
+      "byteLength": 1080,
+      "byteOffset": 9856,
+      "target": 34963
+    }
+  ],
+  "materials": [
+    {
+      "name": "wire_204204204",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___247658__1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___247755__1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 4,
+            "NORMAL": 5,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Rectangular_Column_Test_bed_column__248063__1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 8,
+            "NORMAL": 9,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Rectangular_Column_Test_bed_column__248351__1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 12,
+            "NORMAL": 13,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Rectangular_Column_Test_bed_column__255862__1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 16,
+            "NORMAL": 17,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___260147__1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 20,
+            "NORMAL": 21,
+            "TEXCOORD_0": 22
+          },
+          "indices": 23,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___260486__1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 24,
+            "NORMAL": 25,
+            "TEXCOORD_0": 26
+          },
+          "indices": 27,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___260943__1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 28,
+            "NORMAL": 29,
+            "TEXCOORD_0": 30
+          },
+          "indices": 31,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___261943__1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 32,
+            "NORMAL": 33,
+            "TEXCOORD_0": 34
+          },
+          "indices": 35,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___262286__1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 36,
+            "NORMAL": 37,
+            "TEXCOORD_0": 38
+          },
+          "indices": 39,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___247658_",
+      "mesh": 0
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___247755_",
+      "mesh": 1
+    },
+    {
+      "name": "Rectangular_Column_Test_bed_column__248063_",
+      "mesh": 2
+    },
+    {
+      "name": "Rectangular_Column_Test_bed_column__248351_",
+      "mesh": 3
+    },
+    {
+      "name": "Rectangular_Column_Test_bed_column__255862_",
+      "mesh": 4
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___260147_",
+      "mesh": 5
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___260486_",
+      "mesh": 6
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___260943_",
+      "mesh": 7
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___261943_",
+      "mesh": 8
+    },
+    {
+      "name": "Basic_Wall_Single_brick_Masonry__test_bed___262286_",
+      "mesh": 9
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    }
+  ]
+}
